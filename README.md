@@ -1,5 +1,6 @@
 # PySpark_project_Turnkey_lender
-Problem Statement 
+Problem Statement
+
 Turnkey lender aims to analyze customer data to gain insights into their behavior and preferences, enabling personalized marketing efforts, improved customer satisfaction, and enhanced overall business performance. By analyzing transaction records the bank aims to provide personalized product recommendations, optimize operations, and gauge customer sentiment. This project helps the bank make data-driven decisions, improve customer experiences, drive revenue growth, and establish a customer-centric position in the market.
 
 Task 1: Task Name - Data Cleaning and Preprocessing
